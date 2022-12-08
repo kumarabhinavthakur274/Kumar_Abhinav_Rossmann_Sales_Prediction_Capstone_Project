@@ -5,3 +5,9 @@ Retail Sales Prediction is a regression machine learning project. Rossmann opera
 Businesses use sales forecasts to determine what revenue they will be generating in a particular timespan to empower themselves with powerful and strategic business plans. Important decisions such as budgets, hiring, incentives, goals, acquisitions and various other growth plans are affected by the revenue the company is going to make in the coming months and for these plans to be as effective as they are planned to be it is important for these forecasts to also be as good.
 
 The work here forecasts the sales of the various Rossmann stores across Europe for the recent six weeks and compares the results from the models developed with the actual sales values
+
+# Files:
+1. Colab notebook 
+2. Technical Documentation
+3. Project Summary 
+4. Presentation pdf
